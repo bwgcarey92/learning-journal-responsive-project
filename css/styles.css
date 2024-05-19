@@ -133,9 +133,6 @@ main {
     margin: 0;
 }
 
-.latest-post-desc {
-    border: 1px solid red;
-}
 /*hero section */
 
 .hero {
@@ -283,7 +280,6 @@ footer p {
     .latest {
         display: flex;
         align-items: flex-end;
-        border: 1px solid lightgreen;
         min-height: 400px;
         background-size: cover;
         background-position: center;
